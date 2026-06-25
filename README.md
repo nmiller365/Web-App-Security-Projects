@@ -1,0 +1,1 @@
+This repository showcases my completed Burp Suite Academy labs, accompanied by detailed, step-by-step write-ups to help others replicate my approach and results. I’ll also highlight ongoing web security projects and regularly share new insights and discoveries from my journey in this topic.
