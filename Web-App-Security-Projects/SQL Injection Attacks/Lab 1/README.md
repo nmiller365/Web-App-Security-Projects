@@ -1,0 +1,1 @@
+This write up covers a Burp Suite Academy lab focused on exploiting an SQL injection vulnerability in the category the user selects. By leveraging this vulnerability, you can expose unreleased products that would otherwise remain hidden. The guide walks through each step required to identify the flaw and successfully retrieve the restricted data.
