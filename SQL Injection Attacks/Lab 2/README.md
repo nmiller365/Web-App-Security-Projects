@@ -1,3 +1,5 @@
+# Lab 2: SQL Injection - Authentication Bypass
+
 This write-up covers a Burp Suite Academy lab focused on exploiting an SQL injection vulnerability. In this lab, I identified and leveraged an SQL injection attack in the username field to bypass authentication and gain unauthorized access to the application.
 
 ## Lab Objectives
@@ -16,3 +18,13 @@ This write-up covers a Burp Suite Academy lab focused on exploiting an SQL injec
 
 ## Results
 Successfully bypassed authentication and accessed the application as an admin user.
+
+## Detailed Walkthrough
+
+[Add detailed step-by-step instructions, screenshots, and payloads here]
+
+## Key Takeaways
+
+- Always validate and sanitize user input on the backend
+- Use parameterized queries and prepared statements
+- Implement proper error handling to avoid information disclosure
